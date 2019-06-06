@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\bin\Debug\libro con autor.exe.config
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\bin\Debug\libro con autor.exe
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\bin\Debug\libro con autor.pdb
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro con autor.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro_con_autor.Form1.resources
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro_con_autor.Properties.Resources.resources
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro con autor.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro con autor.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro con autor.exe
+C:\Users\Alumno\source\repos\libro con autor\libro con autor\obj\Debug\libro con autor.pdb
